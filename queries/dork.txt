@@ -1,0 +1,46 @@
+ColdFusion:
+
+inurl:login.cfm
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+intitle:"Coldfusion Administrator Login"
+intitle:"Index of" cfide
+inurl:/CFIDE/componentutils/
+intitle:"Index of /CFIDE/" administrator
+
+==============================
+
+Jenkins:
+
+
+==============================
+
+Elastix:
+
+
+=============================
+
+Apache Struts:
+
+
+=============================
+
+Wordpress Plugins:
+
+
+=============================
+
+SQL Database Creds:
+
+
+=============================
+
+Drupal:
+
+=============================
+
+Joomla:
+
+==============================
+
+Image Tragick:
+
