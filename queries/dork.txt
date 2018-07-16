@@ -26,6 +26,10 @@ Apache Struts:
 
 Wordpress Plugins:
 
+Wordpress HD Webplayer 1.1 SQL Injection:
+inurl:"/wp-content/plugins/hd-webplayer/config.php?id="
+inurl:"/wp-content/plugins/hd-webplayer/playlist.php?videoid="
+inurl:"/wp-content/plugins/hd-webplayer/"
 
 =============================
 
